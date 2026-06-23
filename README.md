@@ -24,18 +24,18 @@ Passionate about bridging cutting-edge research with scalable, production-grade 
 ### 🛠️ Tech Stack
 
 **Core Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 **AI/ML & Computer Vision**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) 
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) 
 ![YOLO](https://img.shields.io/badge/YOLO-00B4FF?style=flat&logo=yolo&logoColor=white)
 
 **MLOps & Backend**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 **Specialized Domains**  
@@ -52,7 +52,7 @@ Real-time IoT fleet management platform with GPS telemetry, route optimization, 
 YOLOv5-based edge system achieving >90% defect detection accuracy on Raspberry Pi for industrial quality control.
 
 **🌍 Multimodal Geospatial Fusion**  
-Deep learning pipeline fusing Satellite, LiDAR, GPR & GNSS data — delivered 20% improvement in spatial alignment accuracy.
+Deep learning pipeline fusing Satellite + LiDAR + GPR + GNSS data — delivered **20%** improvement in spatial alignment accuracy.
 
 *(More projects coming soon — cleaning up & documenting actively)*
 
@@ -73,9 +73,9 @@ Deep learning pipeline fusing Satellite, LiDAR, GPR & GNSS data — delivered 20
 
 ### 📫 Let's Connect
 
-- **Email**: adityapande403@gmail.com
-- **LinkedIn**: [linkedin.com/in/aditya-pande](https://www.linkedin.com/in/adityapande403/)
-- **Resume**: [Download PDF](https://github.com/adityapande403/adityapande403/blob/7ad1ba1b2ff9fc3722465251f6ae82860407abeb/Aditya_Pande_resume.pdf) 
+- **Email**: [adityapande403@gmail.com](mailto:adityapande403@gmail.com)
+- **LinkedIn**: [linkedin.com/in/aditya-pande](https://linkedin.com/in/aditya-pande)
+- **Resume**: [Download PDF](https://github.com/adityapande403/adityapande403/blob/main/Aditya_Pande_resume.pdf)
 
 ---
 
