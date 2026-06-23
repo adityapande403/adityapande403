@@ -75,7 +75,7 @@ Deep learning pipeline fusing Satellite, LiDAR, GPR & GNSS data — delivered 20
 
 - **Email**: adityapande403@gmail.com
 - **LinkedIn**: [linkedin.com/in/aditya-pande](https://linkedin.com/in/aditya-pande)
-- **Resume**: [Download PDF](https://github.com/adityapande403/adityapande403/blob/main/Aditya_Pande_Resume.pdf) *(Add your resume here later)*
+- **Resume**: [Download PDF](https://github.com/adityapande403/adityapande403/blob/7ad1ba1b2ff9fc3722465251f6ae82860407abeb/Aditya_Pande_resume.pdf) *(Add your resume here later)*
 
 ---
 
