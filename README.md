@@ -45,7 +45,7 @@ Geospatial AI (LiDAR, Satellite, GPR, GNSS) • IoT Telemetry • Edge Inference
 
 ### 📌 Featured Projects
 
-**🔥 [OptiFleet](https://github.com/adityapande403/OptiFleet)**  
+**🔥 [OptiFleet](https://neogeoinfo.com/solutions/optifleet.html)**  
 Real-time IoT fleet management platform with GPS telemetry, route optimization, fuel analytics, and computer vision driver monitoring.
 
 **🖼️ [3D Printing Defect Detection](https://github.com/adityapande403/cv_3d_detect)**  
