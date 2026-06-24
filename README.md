@@ -51,7 +51,7 @@ Real-time IoT fleet management platform with GPS telemetry, route optimization, 
 **🖼️ [3D Printing Defect Detection](https://github.com/adityapande403/cv_3d_detect)**  
 YOLOv5-based edge system achieving >90% defect detection accuracy on Raspberry Pi for industrial quality control.
 
-**🌍 Multimodal Geospatial Fusion**  
+**🌍 Multimodal Geospatial Fusion(https://github.com/adityapande403/multimodal-geospatial-fusion)**  
 Deep learning pipeline fusing Satellite + LiDAR + GPR + GNSS data — delivered **20%** improvement in spatial alignment accuracy.
 
 *(More projects coming soon — cleaning up & documenting actively)*
