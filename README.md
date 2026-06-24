@@ -46,16 +46,15 @@ Geospatial AI (LiDAR, Satellite, GPR, GNSS) • IoT Telemetry • Edge Inference
 ### 📌 Featured Projects
 
 **🔥 [OptiFleet](https://neogeoinfo.com/solutions/optifleet.html)**  
-Real-time IoT fleet management platform with GPS telemetry, route optimization, fuel analytics, and computer vision driver monitoring.
+Real-time IoT fleet management platform with low-latency GPS telemetry, route optimization, fuel efficiency analytics, and computer vision-based driver monitoring.
 
 **🖼️ [3D Printing Defect Detection](https://github.com/adityapande403/cv_3d_detect)**  
-YOLOv5-based edge system achieving >90% defect detection accuracy on Raspberry Pi for industrial quality control.
+YOLOv5-based real-time defect detection system for FFF/FDM 3D printers. Achieved **>90% detection accuracy** and edge deployment on Raspberry Pi (TensorFlow Lite).
 
 **🌍 [Multimodal Geospatial Fusion](https://github.com/adityapande403/multimodal-geospatial-fusion)**  
-Deep learning pipeline fusing Satellite + LiDAR + GPR + GNSS data — delivered **20%** improvement in spatial alignment accuracy.
+End-to-end deep learning pipeline fusing Satellite Imagery, LiDAR, GPR, and GNSS data. Delivered **20% improvement** in spatial alignment accuracy with RMSE/SSIM evaluation.
 
-*(More projects coming soon — cleaning up & documenting actively)*
-
+*(Actively improving & open-sourcing more projects in Geospatial AI, Edge CV, and Agentic Systems)*
 ---
 
 ### 📊 GitHub Stats
