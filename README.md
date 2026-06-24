@@ -54,7 +54,7 @@ YOLOv5-based real-time defect detection system for FFF/FDM 3D printers. Achieved
 **🌍 [Multimodal Geospatial Fusion](https://github.com/adityapande403/multimodal-geospatial-fusion)**  
 End-to-end deep learning pipeline fusing Satellite Imagery, LiDAR, GPR, and GNSS data. Delivered **20% improvement** in spatial alignment accuracy with RMSE/SSIM evaluation.
 
-**(Actively improving & open-sourcing more projects in Geospatial AI, Edge CV, and Agentic Systems)**
+
 ---
 
 ### 📊 GitHub Stats
