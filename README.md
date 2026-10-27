@@ -1,81 +1,196 @@
-<h1 align="center">Hi 👋, I'm Aditya Pande</h1>
-
-<h3 align="center">AI/ML Engineer building production-grade multimodal geospatial systems, real-time IoT telemetry platforms, and edge computer vision solutions.</h3>
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0d1117,45:12304a,100:1f6feb&text=Aditya%20Pande&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=AI%2FML%20Engineer%20%C2%B7%20Geospatial%20AI%20%C2%B7%20Edge%20%26%20Efficient%20ML&descAlignY=60&descSize=18&animation=fadeIn" alt="Aditya Pande — AI/ML Engineer" />
+</p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/aditya-pande"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=820&height=40&lines=Production-grade+multimodal+geospatial+systems;Edge+%26+efficient+LLMs+%C2%B7+speculative+decoding+%C2%B7+quantization;Privacy-first%2C+offline-capable+ML+for+real+deployments;Real-time+IoT+telemetry+%C2%B7+edge+computer+vision" alt="Typing tagline" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/aditya-pande"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:adityapande403@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://huggingface.co/Adityapande403"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
+  <a href="https://neogeoinfo.com"><img src="https://img.shields.io/badge/NeoGeoInfo-0d1117?style=for-the-badge&logo=googlemaps&logoColor=white" alt="NeoGeoInfo"/></a>
+  <a href="https://github.com/adityapande403/adityapande403/blob/main/Aditya_Pande_Resume.pdf"><img src="https://img.shields.io/badge/Résumé-PDF-2ea043?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"/></a>
 </p>
 
 ---
 
-### 🚀 About Me
+## 👋 About
 
-I'm an **AI/ML Engineer (Entrepreneur-in-Residence)** at **NeoGeoInfo Technologies**, where I design and ship end-to-end intelligent systems — from multimodal geospatial fusion pipelines to real-time fleet management platforms.
+I'm an **AI/ML Engineer (Entrepreneur-in-Residence) at [NeoGeoInfo Technologies](https://neogeoinfo.com)**. I design and ship end-to-end intelligent systems: multimodal geospatial fusion pipelines, real-time fleet telemetry, and small, fast models that run offline on a single consumer GPU or a CPU.
 
-Passionate about bridging cutting-edge research with scalable, production-grade deployment.
-
-- 🔭 Currently working on: **OptiFleet** (IoT telemetry platform) and **Multimodal Geospatial Fusion**
-- 🌱 Deepening expertise in Agentic AI, MLOps, and Geospatial Intelligence
-- 💡 Open to opportunities in Geospatial AI, Autonomous Systems, and Production ML
-
----
-
-### 🛠️ Tech Stack
-
-**Core Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-
-**AI/ML & Computer Vision**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) 
-![YOLO](https://img.shields.io/badge/YOLO-00B4FF?style=flat&logo=yolo&logoColor=white)
-
-**MLOps & Backend**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-
-**Specialized Domains**  
-Geospatial AI (LiDAR, Satellite, GPR, GNSS) • IoT Telemetry • Edge Inference (TensorFlow Lite) • LangChain & Agentic Systems
+| | |
+|---|---|
+| 🔭 **Building now** | OptiFleet (IoT telemetry) · Multimodal Geospatial Fusion · edge LLM inference · privacy-first Indic NLP |
+| 🌱 **Going deeper on** | Agentic AI · MLOps · Geospatial Intelligence · efficient inference |
+| 💡 **Open to** | Geospatial AI · Autonomous Systems · Production ML |
+| ⚙️ **Default stance** | Verify the model's output with deterministic checks, and publish the numbers, including the unflattering ones |
 
 ---
 
-### 📌 Featured Projects
+## 🧭 How I Build
 
-**🔥 [OptiFleet](https://neogeoinfo.com/solutions/optifleet.html)**  
-Real-time IoT fleet management platform with low-latency GPS telemetry, route optimization, fuel efficiency analytics, and computer vision-based driver monitoring.
+```mermaid
+flowchart LR
+    A["Problem framing"] --> B["Synthetic + curated data<br/>hash-dedup, zero-leakage splits"]
+    B --> C["LoRA / SFT / GRPO"]
+    C --> D["Deterministic verification<br/>validators, compilers, equivalence checks"]
+    D --> E["Quantize and export<br/>ONNX INT8, GGUF, Safetensors"]
+    E --> F["Serve<br/>Python SDK, FastAPI, Node SDK, CLI"]
+    F --> G["Offline / edge deployment"]
+```
 
-**🖼️ [3D Printing Defect Detection](https://github.com/adityapande403/cv_3d_detect)**  
-YOLOv5-based real-time defect detection system for FFF/FDM 3D printers. Achieved **>90% detection accuracy** and edge deployment on Raspberry Pi (TensorFlow Lite).
-
-**🌍 [Multimodal Geospatial Fusion](https://github.com/adityapande403/multimodal-geospatial-fusion)**  
-End-to-end deep learning pipeline fusing Satellite Imagery, LiDAR, GPR, and GNSS data. Delivered **20% improvement** in spatial alignment accuracy with RMSE/SSIM evaluation.
-
+- **Verify, don't trust.** Models sit inside deterministic guardrails: Verhoeff and Luhn checksums, `jsonschema` validation, sandboxed `gcc -Wall -Wextra -Werror` builds, token-level equivalence tests.
+- **Leakage-free evaluation.** Hash-based dedup and split-leakage audits before any number gets reported.
+- **Small and local by default.** Quantized ONNX/GGUF artifacts, under 3 GB of VRAM, CPU fallbacks, no runtime network calls.
+- **Shipped, not demoed.** SDKs, REST APIs, CLIs, test suites, and reproducible reports in every repo.
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Featured Projects
+
+### ⚡ Efficient & Edge LLMs
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h4><a href="https://github.com/adityapande403/SpecDecode-edge">SpecDecode Edge</a></h4>
+<p>Research and deployment framework for <b>speculative decoding</b> on a single GPU. Trains Medusa-style draft heads on a frozen Qwen2.5-1.5B target and verifies that output stays token-for-token identical to standard decoding.</p>
+<sub><code>PyTorch</code> · <code>Medusa heads</code> · <code>KV-cache rollback</code> · <code>vLLM/Safetensors export</code> · <a href="https://huggingface.co/Adityapande403/SpecDecode-edge">🤗 Model</a></sub>
+</td>
+<td width="50%" valign="top">
+<h4><a href="https://github.com/adityapande403/Embeddie-coder">EmbeddedCoder AI</a></h4>
+<p>Offline-first small language model for <b>embedded systems engineering</b>: firmware, RTOS, and hardware triage. Paired with deterministic Modbus / J1939 / OBD-II / AIS-140 decoders, sandboxed GCC checks, and local BM25 datasheet retrieval.</p>
+<sub><code>Qwen2.5-Coder</code> · <code>LoRA SFT</code> · <code>BM25 RAG</code> · <code>FastAPI</code> · <a href="https://huggingface.co/Adityapande403/embeddie-coder">🤗 Model</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h4><a href="https://github.com/adityapande403/Universal-JSON-Extractor">Universal JSON Extractor</a></h4>
+<p>Schema-guided extraction that turns noisy text (OCR, logs, tickets, scraped HTML) into <b>strictly validated JSON</b>. Prompt-injection isolation, bounded repair, and an abstention policy that refuses to invent missing fields.</p>
+<sub><code>Qwen2.5-1.5B</code> · <code>PEFT / DPO / GRPO</code> · <code>Ollama / GGUF</code> · <code>FastAPI</code> · <a href="https://huggingface.co/Adityapande403/universal-json-extractor">🤗 Model</a></sub>
+</td>
+<td width="50%" valign="top">
+<h4><a href="https://github.com/adityapande403/VisDoc-AI">VisDoc AI</a></h4>
+<p><b>Visual document retrieval</b> with ColQwen2.5 and late-interaction MaxSim scoring. Searches datasheets, schematics, invoices and balance sheets straight from page images, with no OCR and no text chunking.</p>
+<sub><code>ColQwen2.5</code> · <code>MaxSim</code> · <code>INT8 / 1-bit index</code> · <code>PyMuPDF</code> · <code>FastAPI</code> · <a href="https://huggingface.co/Adityapande403/VisDoc-AI">🤗 Model</a></sub>
+</td>
+</tr>
+</table>
+
+### 🛡️ Privacy-First Indic NLP
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h4><a href="https://github.com/adityapande403/Loc-shield-AI">LocalShield AI</a></h4>
+<p>Offline <b>PII detection and redaction</b> before data reaches an external LLM or log pipeline. Hybrid engine: checksum validators (Aadhaar, cards, PAN, IFSC) plus a multilingual DistilBERT tagger for English, Hindi and Hinglish. Four redaction modes and optional encrypted, reversible pseudonymization.</p>
+<sub><code>DistilBERT</code> · <code>ONNX INT8</code> · <code>FastAPI</code> · <code>Node.js SDK</code> · <a href="https://huggingface.co/Adityapande403/LocShield-AI">🤗 Model</a></sub>
+</td>
+<td width="50%" valign="top">
+<h4><a href="https://github.com/adityapande403/Indic-mix-AI">IndicMix AI</a></h4>
+<p>Language understanding for <b>code-mixed Indian text</b> (Hinglish, Telgish, Benglish and native scripts): intent, moderation, PII redaction, and entity-preserving normalization as three independently trainable model families.</p>
+<sub><code>ONNX Runtime</code> · <code>Python + Node.js</code> · <code>FastAPI</code> · <code>edge-ready</code> · <a href="https://huggingface.co/Adityapande403/IndicMix-AI">🤗 Model</a></sub>
+</td>
+</tr>
+</table>
+
+### 🌍 Geospatial, IoT & Computer Vision
+
+<table>
+<tr>
+<td width="33%" valign="top">
+<h4><a href="https://neogeoinfo.com/solutions/optifleet.html">OptiFleet</a></h4>
+<p>Real-time IoT fleet platform: low-latency GPS telemetry, route optimization, fuel-efficiency analytics, and vision-based driver monitoring.</p>
+<sub><code>IoT</code> · <code>telemetry</code> · <code>CV</code></sub>
+</td>
+<td width="33%" valign="top">
+<h4><a href="https://github.com/adityapande403/multimodal-geospatial-fusion">Multimodal Geospatial Fusion</a></h4>
+<p>Deep-learning pipeline fusing satellite imagery, LiDAR, GPR and GNSS. Attention-based multi-scale fusion delivered a <b>20% gain in spatial alignment accuracy</b>, evaluated with RMSE and SSIM.</p>
+<sub><code>PyTorch</code> · <code>LiDAR</code> · <code>GPR</code> · <code>GNSS</code></sub>
+</td>
+<td width="33%" valign="top">
+<h4><a href="https://github.com/adityapande403/cv_3d_detect">3D-Print Defect Detection</a></h4>
+<p>YOLOv5 real-time defect detection for FFF/FDM printers: <b>&gt;90% detection accuracy</b>, deployed on a Raspberry Pi via TensorFlow Lite / ONNX.</p>
+<sub><code>YOLOv5</code> · <code>TFLite</code> · <code>Raspberry Pi</code></sub>
+</td>
+</tr>
+</table>
+
+---
+
+## 📏 Measured, Not Claimed
+
+Every figure below comes from a report or README in the linked repo. The context column says what it was measured on.
+
+| Project | Result | Context |
+|---|---|---|
+| **SpecDecode Edge** | Token-identical output in 6 of 8 workload categories · **1.08×** on code generation · **2.96 GB** peak VRAM | Frozen Qwen2.5-1.5B, RTX 5060 Ti 16 GB; the other 2 categories diverged only at exact bf16 logit ties |
+| **VisDoc AI** | **253 ms → 10.7 ms** at 1,000 pages (23.7×) via two-stage pruning · INT8 index **2×** smaller with no NDCG@5 loss · 1-bit index **16×** smaller | Held-out set plus a 10,000-page scale benchmark |
+| **Universal JSON Extractor** | **98%** JSON parse · **86%** schema compliance · **0%** hallucinated fields | 50 held-out samples, 1 epoch of LoRA SFT on 27k synthetic examples |
+| **LocalShield AI** | **128.9 MB** INT8 ONNX · **3.95 ms** P50 end-to-end (2.27 ms raw model) · 38 tests passing | CPU-only, full detect-and-redact pipeline |
+| **IndicMix AI** | **222 KB** INT8 ONNX · **0.69 ms** P50 full pipeline · 60 tests passing | Windows 11, Intel CPU |
+| **EmbeddedCoder AI** | **~2.9 GB** VRAM · **56–60 tok/s** · 20/20 tests passing | i7-14700K + RTX 5060 Ti |
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**ML, LLMs & Computer Vision**<br/>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Transformers_·_PEFT-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![ONNX](https://img.shields.io/badge/ONNX_Runtime-005CED?style=flat-square&logo=onnx&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-Ultralytics-00B4FF?style=flat-square)
+
+**Backend, MLOps & Edge**<br/>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama_·_GGUF-000000?style=flat-square&logo=ollama&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+
+**Specialized domains:** Geospatial AI (LiDAR · Satellite · GPR · GNSS) · IoT telemetry · Speculative decoding & quantization · Retrieval (late interaction) · LangChain & agentic systems
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityapande403&show_icons=true&theme=radical&hide_border=true" alt="Aditya's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityapande403&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adityapande403&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=adityapande403&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityapande403&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityapande403&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityapande403&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
 </p>
 
 ---
 
-### 📫 Let's Connect
+## 📫 Let's Connect
 
-- **Email**: [adityapande403@gmail.com](mailto:adityapande403@gmail.com)
-- **LinkedIn**: [linkedin.com/in/aditya-pande](https://linkedin.com/in/aditya-pande)
-- **Resume**: [Download PDF](https://github.com/adityapande403/adityapande403/blob/main/Aditya_Pande_Resume.pdf)
+I'm happy to talk about geospatial AI, efficient inference, or shipping ML that has to work offline.
 
----
+- **Email:** [adityapande403@gmail.com](mailto:adityapande403@gmail.com)
+- **LinkedIn:** [linkedin.com/in/aditya-pande](https://linkedin.com/in/aditya-pande)
+- **Hugging Face:** [huggingface.co/Adityapande403](https://huggingface.co/Adityapande403)
+- **Résumé:** [Download PDF](https://github.com/adityapande403/adityapande403/blob/main/Aditya_Pande_Resume.pdf)
 
-*Always learning, building, and shipping.*
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0d1117,45:12304a,100:1f6feb&section=footer" alt="" />
+</p>
+
+<p align="center"><i>Always learning, building, and shipping.</i></p>
