@@ -1,18 +1,18 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0d1117,45:12304a,100:1f6feb&text=Aditya%20Pande&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=AI%2FML%20Engineer%20%C2%B7%20Geospatial%20AI%20%C2%B7%20Edge%20%26%20Efficient%20ML&descAlignY=60&descSize=18&animation=fadeIn" alt="Aditya Pande — AI/ML Engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=230&amp;color=0:0d1117,45:12304a,100:1f6feb&amp;text=Aditya%20Pande&amp;fontColor=ffffff&amp;fontSize=58&amp;fontAlignY=38&amp;desc=AI%2FML%20Engineer%20%C2%B7%20Geospatial%20AI%20%C2%B7%20Edge%20%26%20Efficient%20ML&amp;descAlignY=60&amp;descSize=18&amp;animation=fadeIn" alt="Aditya Pande — AI/ML Engineer" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=820&height=40&lines=Production-grade+multimodal+geospatial+systems;Edge+%26+efficient+LLMs+%C2%B7+speculative+decoding+%C2%B7+quantization;Privacy-first%2C+offline-capable+ML+for+real+deployments;Real-time+IoT+telemetry+%C2%B7+edge+computer+vision" alt="Typing tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=20&amp;duration=3200&amp;pause=900&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=820&amp;height=40&amp;lines=Production-grade+multimodal+geospatial+systems;Edge+%26+efficient+LLMs+%C2%B7+speculative+decoding+%C2%B7+quantization;Privacy-first%2C+offline-capable+ML+for+real+deployments;Real-time+IoT+telemetry+%C2%B7+edge+computer+vision" alt="Typing tagline" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/aditya-pande"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:adityapande403@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://huggingface.co/Adityapande403"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
-  <a href="https://neogeoinfo.com"><img src="https://img.shields.io/badge/NeoGeoInfo-0d1117?style=for-the-badge&logo=googlemaps&logoColor=white" alt="NeoGeoInfo"/></a>
-  <a href="https://github.com/adityapande403/adityapande403/blob/main/Aditya_Pande_Resume.pdf"><img src="https://img.shields.io/badge/Résumé-PDF-2ea043?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"/></a>
+  <a href="https://linkedin.com/in/aditya-pande"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:adityapande403@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/></a>
+  <a href="https://huggingface.co/Adityapande403"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&amp;logo=huggingface&amp;logoColor=black" alt="Hugging Face"/></a>
+  <a href="https://neogeoinfo.com"><img src="https://img.shields.io/badge/NeoGeoInfo-0d1117?style=for-the-badge&amp;logo=googlemaps&amp;logoColor=white" alt="NeoGeoInfo"/></a>
+  <a href="https://github.com/adityapande403/adityapande403/blob/main/Aditya_Pande_Resume.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-PDF-2ea043?style=for-the-badge&amp;logo=readme&amp;logoColor=white" alt="Resume"/></a>
 </p>
 
 ---
@@ -51,7 +51,7 @@ flowchart LR
 
 ## 🚀 Featured Projects
 
-### ⚡ Efficient & Edge LLMs
+### ⚡ Efficient &amp; Edge LLMs
 
 <table>
 <tr>
@@ -97,7 +97,7 @@ flowchart LR
 </tr>
 </table>
 
-### 🌍 Geospatial, IoT & Computer Vision
+### 🌍 Geospatial, IoT &amp; Computer Vision
 
 <table>
 <tr>
@@ -139,43 +139,43 @@ Every figure below comes from a report or README in the linked repo. The context
 ## 🛠️ Tech Stack
 
 **Languages**<br/>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&amp;logo=cplusplus&amp;logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black)
 
-**ML, LLMs & Computer Vision**<br/>
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Transformers_·_PEFT-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![ONNX](https://img.shields.io/badge/ONNX_Runtime-005CED?style=flat-square&logo=onnx&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+**ML, LLMs &amp; Computer Vision**<br/>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&amp;logo=tensorflow&amp;logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Transformers_·_PEFT-FFD21E?style=flat-square&amp;logo=huggingface&amp;logoColor=black)
+![ONNX](https://img.shields.io/badge/ONNX_Runtime-005CED?style=flat-square&amp;logo=onnx&amp;logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&amp;logo=opencv&amp;logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&amp;logo=scikitlearn&amp;logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-Ultralytics-00B4FF?style=flat-square)
 
-**Backend, MLOps & Edge**<br/>
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama_·_GGUF-000000?style=flat-square&logo=ollama&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+**Backend, MLOps &amp; Edge**<br/>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama_·_GGUF-000000?style=flat-square&amp;logo=ollama&amp;logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&amp;logo=nvidia&amp;logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&amp;logo=raspberrypi&amp;logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&amp;logo=pytest&amp;logoColor=white)
 
-**Specialized domains:** Geospatial AI (LiDAR · Satellite · GPR · GNSS) · IoT telemetry · Speculative decoding & quantization · Retrieval (late interaction) · LangChain & agentic systems
+**Specialized domains:** Geospatial AI (LiDAR · Satellite · GPR · GNSS) · IoT telemetry · Speculative decoding &amp; quantization · Retrieval (late interaction) · LangChain &amp; agentic systems
 
 ---
 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adityapande403&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=adityapande403&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityapande403&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adityapande403&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=adityapande403&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityapande403&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityapande403&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityapande403&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" alt="Contribution graph" />
 </p>
 
 ---
@@ -190,7 +190,7 @@ I'm happy to talk about geospatial AI, efficient inference, or shipping ML that 
 - **Résumé:** [Download PDF](https://github.com/adityapande403/adityapande403/blob/main/Aditya_Pande_Resume.pdf)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0d1117,45:12304a,100:1f6feb&section=footer" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=110&amp;color=0:0d1117,45:12304a,100:1f6feb&amp;section=footer" alt="" />
 </p>
 
 <p align="center"><i>Always learning, building, and shipping.</i></p>
