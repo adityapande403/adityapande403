@@ -1,10 +1,10 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=230&amp;color=0:0d1117,45:12304a,100:1f6feb&amp;text=Aditya%20Pande&amp;fontColor=ffffff&amp;fontSize=58&amp;fontAlignY=38&amp;desc=AI%2FML%20Engineer%20%C2%B7%20Geospatial%20AI%20%C2%B7%20Edge%20%26%20Efficient%20ML&amp;descAlignY=60&amp;descSize=18&amp;animation=fadeIn" alt="Aditya Pande — AI/ML Engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=230&amp;color=0:0d1117,45:12304a,100:1f6feb&amp;text=Aditya%20Pande&amp;fontColor=ffffff&amp;fontSize=58&amp;fontAlignY=38&amp;desc=AI%2FML%20Engineer%2C%20Geospatial%20AI%2C%20Edge%20and%20Efficient%20ML&amp;descAlignY=60&amp;descSize=18&amp;animation=fadeIn" alt="Aditya Pande — AI/ML Engineer" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=20&amp;duration=3200&amp;pause=900&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=820&amp;height=40&amp;lines=Production-grade+multimodal+geospatial+systems;Edge+%26+efficient+LLMs+%C2%B7+speculative+decoding+%C2%B7+quantization;Privacy-first%2C+offline-capable+ML+for+real+deployments;Real-time+IoT+telemetry+%C2%B7+edge+computer+vision" alt="Typing tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=20&amp;duration=3200&amp;pause=900&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=820&amp;height=40&amp;lines=Production-grade+multimodal+geospatial+systems;Edge+and+efficient+LLMs%2C+speculative+decoding%2C+quantization;Privacy-first%2C+offline-capable+ML+for+real+deployments;Real-time+IoT+telemetry+and+edge+computer+vision" alt="Typing tagline" />
 </p>
 
 <p align="center">
