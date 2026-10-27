@@ -174,10 +174,6 @@ Every figure below comes from a report or README in the linked repo. The context
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityapande403&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityapande403&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" alt="Contribution graph" />
-</p>
-
 ---
 
 ## 📫 Let's Connect
