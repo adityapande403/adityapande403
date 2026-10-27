@@ -74,7 +74,7 @@ End-to-end deep learning pipeline fusing Satellite Imagery, LiDAR, GPR, and GNSS
 
 - **Email**: [adityapande403@gmail.com](mailto:adityapande403@gmail.com)
 - **LinkedIn**: [linkedin.com/in/aditya-pande](https://linkedin.com/in/aditya-pande)
-- **Resume**: [Download PDF](https://github.com/adityapande403/adityapande403/blob/main/Aditya_Pande_resume.pdf)
+- **Resume**: [Download PDF](https://github.com/adityapande403/adityapande403/blob/main/Aditya_Pande_Resume.pdf)
 
 ---
 
